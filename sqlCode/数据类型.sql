@@ -1,0 +1,3 @@
+# 元素整型
+CREATE TABLE `user` ( id INT, `name` VARCHAR(255) ) CHARACTER 
+SET utf8 COLLATE utf8_bin ENGINE INNODB;
