@@ -5,7 +5,6 @@
 
  SELECT * FROM emp
  
- 12	小妖		2022-12-12	2023-12-12	巡山	7000	巡山就完了	
  
  INSERT INTO emp(id, user_name, sex, birthday, job, salary, resume, image) VALUES (1, '小妖', '男', '2022-12-12', '巡山', 7000, '报答恩情', 'd:\picture.jpg')
  
