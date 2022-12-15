@@ -1,0 +1,8 @@
+CREATE TABLE T4 ( age TINYINT, `name` VARCHAR ( 255 ), `location` VARCHAR ( 255 ) ) CHARACTER 
+SET utf8 COLLATE utf8_bin ENGINE INNODB
+
+DROP TABLE `user`
+
+INSERT INTO t4 VALUES(12,'小明','山东济宁市')
+# 查询t4
+SELECT * FROM  t4
